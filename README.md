@@ -3,4 +3,4 @@ Monitor
 Keyboard
 Mouse
 PC
-PC 1
+PC 10
